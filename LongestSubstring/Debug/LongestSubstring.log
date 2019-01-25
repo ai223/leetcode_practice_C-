@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  LongestSubstring.cpp
+c:\users\aleks\source\repos\leetcode_practice\longestsubstring\longestsubstring.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  LongestSubstring.vcxproj -> C:\Users\aleks\source\repos\LeetCode_Practice\Debug\LongestSubstring.exe

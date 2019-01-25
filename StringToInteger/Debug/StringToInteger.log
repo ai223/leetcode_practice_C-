@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  StringToInteger.cpp
+c:\users\aleks\source\repos\leetcode_practice\stringtointeger\stringtointeger.cpp(161): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+  StringToInteger.vcxproj -> C:\Users\aleks\source\repos\LeetCode_Practice\Debug\StringToInteger.exe
