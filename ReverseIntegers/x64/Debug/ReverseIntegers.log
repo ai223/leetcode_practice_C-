@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  ReverseIntegers.cpp
+c:\users\aleks\source\repos\leetcode_practice_c++\reverseintegers\reverseintegers.cpp(13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aleks\source\repos\leetcode_practice_c++\reverseintegers\reverseintegers.cpp(14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\aleks\source\repos\leetcode_practice_c++\reverseintegers\reverseintegers.cpp(25): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  ReverseIntegers.vcxproj -> C:\Users\aleks\source\repos\LeetCode_Practice_C++\x64\Debug\ReverseIntegers.exe

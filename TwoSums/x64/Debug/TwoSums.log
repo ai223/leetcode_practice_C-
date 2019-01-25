@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  TwoSums.cpp
+c:\users\aleks\source\repos\leetcode_practice_c++\twosums\twosums.cpp(23): warning C4715: 'twoSum': not all control paths return a value
+c:\users\aleks\source\repos\leetcode_practice_c++\twosums\twosums.cpp(41): warning C4715: 'twoSum2': not all control paths return a value
+  TwoSums.vcxproj -> C:\Users\aleks\source\repos\LeetCode_Practice_C++\x64\Debug\TwoSums.exe

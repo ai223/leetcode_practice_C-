@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  StringBinaryAddition.cpp
+c:\users\aleks\source\repos\leetcode_practice_c++\stringbinaryaddition\stringbinaryaddition.cpp(113): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StringBinaryAddition.vcxproj -> C:\Users\aleks\source\repos\LeetCode_Practice_C++\x64\Debug\StringBinaryAddition.exe
